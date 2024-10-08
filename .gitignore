@@ -1,0 +1,36 @@
+# Gradle
+.gradle/
+build/
+gradle/
+!gradle/wrapper/gradle-wrapper.jar
+
+# Ignore Gradle GUI config
+gradle-app.setting
+
+# IntelliJ IDEA
+.idea/
+*.iml
+*.ipr
+*.iws
+out/
+
+# Eclipse
+.classpath
+.project
+.settings/
+
+# VS Code
+.vscode/
+
+# Temporary files
+*.class
+*.log
+*.tmp
+*.bak
+*.swp
+*.DS_Store
+
+# Other generated files
+*.jar
+*.war
+*.ear
